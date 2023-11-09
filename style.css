@@ -1,0 +1,26 @@
+:root {
+    --marrom-principal: #62421D
+    --branco-principal: #F0DCA7
+}
+
+.titulo {
+    /* Que tal adoçar */
+
+position: absolute;
+width: 1119.93px;
+height: 341.11px;
+left: 358px;
+top: 134.45px;
+
+font-family: 'Besley';
+font-style: normal;
+font-weight: 800;
+font-size: 96px;
+line-height: 161px;
+
+color: #442D0A;
+
+border: 1px solid #000000;
+transform: rotate(-0.43deg);
+
+}
